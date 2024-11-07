@@ -1,0 +1,9 @@
+[submodule "tekweb-front"]
+	path = tekweb-front
+	url = https://github.com/XwcdX/tekweb-front.git
+[submodule "tekweb-api"]
+	path = tekweb-api
+	url = https://github.com/XwcdX/tekweb-api.git
+[submodule "tekweb-admin"]
+	path = tekweb-admin
+	url = https://github.com/XwcdX/tekweb-admin.git
